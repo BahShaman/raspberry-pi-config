@@ -1,0 +1,829 @@
+    1  ls
+    2  cd /etc/network/
+    3  ls
+    4  vi interfaces
+    5  ipconfig
+    6  ifconfig
+    7  exit
+    8  ls
+    9  ./python_games/
+   10  cd python_games/
+   11  ls
+   12  which pythonœœœœœœœ8
+   13  python --version
+   14  python gemgem.py 
+   15  sudo shutdown -r now
+   16  ls
+   17  set
+   18  $SDL_Display
+   19  set ~ grep S
+   20  set ~ grep SDL*
+   21  raspi-config 
+   22  sudo raspi-config 
+   23  raspi-config 
+   24  sudo raspi-config 
+   25  exit
+   26  ls
+   27  pi play
+   28  play
+   29  say_hi
+   30  exit
+   31  hi
+   32  ls
+   33  cd VixenPython
+   34  ls
+   35  sudo runDisp0.sh
+   36  sudo ./  runDisp0.sh
+   37  sudo ./runDisp0.sh
+   38  ll
+   39  ls -la
+   40  chmod a+x runDisp0.sh 
+   41  ls -la
+   42  sudo ./runDisp0.sh
+   43  vim runDisp0.sh 
+   44  vi runDisp0.sh 
+   45  sudo ./runDisp0.sh
+   46  vi runDisp0.sh 
+   47  vi VixenViewerC.py 
+   48  vi runDisp0.sh 
+   49  ./runDisp0.sh 
+   50  vi runDisp0.sh 
+   51  vi VixenViewerC.py 
+   52  vi runDisp0.sh 
+   53  ./runDisp0.sh 
+   54  ls
+   55  vi runDisp0.sh 
+   56  vi VixenViewerC.py 
+   57  vi runDisp0.sh 
+   58  ./runDisp0.sh 
+   59  shutdown -r now
+   60  sudo shutdown -r now
+   61  sudo /vi 
+   62  ggggggggggggggggggggggggggggggggggggg
+   63  ls
+   64  sudo vi /boot/config.txt 
+   65  sudo shutdown -r now
+   66  ssssssss
+   67  s
+   68  @i like pi@
+   69  s
+   70  @i like pi@
+   71  ra~jhh5E +
+   72  ls
+   73  cd VixenPython/
+   74  ls
+   75  ./runDisp0.sh 
+   76  cd ../
+   77  ls
+   78  cd python_games/
+   79  python squirrel.py 
+   80  cd ..
+   81  cd VixenPython/
+   82  ls
+   83  $DSPLAY
+   84  echo $DSPLAY
+   85  echo $DISPLAY
+   86  vi run
+   87  vi runDisp0.sh 
+   88  ./runDisp0.sh VixenViewer.py 
+   89  ./runDisp0.sh VixenViewerC.py 
+   90  sudo vi /boot/config.txt 
+   91  shutdown -r now
+   92  sudoshutdown -r now
+   93  sudo shutdown -r now
+   94  ls
+   95  cd VixenPython/
+   96  ls
+   97  ./runDisp0.sh 
+   98  vi VixenViewerC.py 
+   99  ./runDisp0.sh 
+  100  ls
+  101  cd VixenPython/
+  102  ls
+  103  python jojo.py 
+  104  vi jojo.py 
+  105  python jojo.py 
+  106  vi jojo.py 
+  107  ls
+  108  sudo apt-get install python-serial
+  109  sudo apt-get git-core
+  110  sudo apt-get installgit-core
+  111  sudo apt-get install git-core
+  112  sudo apt-get install pianobar
+  113  cd /home/pi/
+  114  ls
+  115  cd mkdir .config
+  116  mkdir .config
+  117  cd .config/
+  118  mkdir pianobar
+  119  mkdir pianobar/config
+  120  ls
+  121  cd Desktop/
+  122  ls
+  123  cd ..
+  124  ls
+  125  cd VixenPython/
+  126  ls
+  127  python jojo.py 
+  128  ls
+  129  ;;
+  130  ls
+  131  cd VixenPython/
+  132  ls
+  133  cd VixenPython/
+  134  ./runDisp0.sh VixenEditorC.py 
+  135  ./runDisp0.sh VixenViewerC.py 
+  136  exit
+  137  cd VixenPython/
+  138  .
+  139  ./runDisp0.sh VixenViewerC.py 
+  140  cd VixenPython/
+  141  ./runDisp0.sh VixenViewerC.py 
+  142  sudo shutdown-h now
+  143  sudo shutdown -h now
+  144  sudo vi /boot/config.txt
+  145  sudo shutdown-r now
+  146  sudo shutdown -r now
+  147  sudo vi /boot/config.txt
+  148  sudo shutdown -r now
+  149  ./runDisp0.sh VixenViewerC.py 
+  150  cd VixenPython/
+  151  ./runDisp0.sh VixenViewerC.py 
+  152  python jojo.py 
+  153  ls
+  154  cd VixenFiles/
+  155  ls
+  156  cd Audio/
+  157  ls
+  158  omxplayer CoughCough.ogg 
+  159  omxplayer I.Allegro.mp3 
+  160  exit
+  161  cd VixenPython/
+  162  ls
+  163  ./runDisp0.sh VixenViewerC.py 
+  164  vi VixenViewerC.py 
+  165  ./runDisp0.sh VixenViewerC.py 
+  166  ls
+  167  python ReadXMLFile.py 
+  168  ./runDisp0.sh VixenViewer.py 
+  169  ./runDisp0.sh VixenViewerC.py 
+  170  exit
+  171  start x
+  172  startx
+  173  sudo shutdown -r now
+  174  ./runDisp0.sh VixenViewerC.py 
+  175  screen -help
+  176  git push origin
+  177  git status
+  178  git show
+  179  git push
+  180  git pull
+  181  ls
+  182  git pull
+  183  cd VixenFiles/
+  184  ls
+  185  Sequences/
+  186  cd Sequences/
+  187  ls
+  188  cp PythonDecodeSample.vix Test.vix
+  189  sudo shutdown -h now
+  190  screen -ls
+  191  screen -x
+  192  screen --help
+  193  exit
+  194  ls
+  195  python VixenViewerC.py 
+  196  chmod 777 runDisp0.sh 
+  197  ./runDisp0.sh VixenViewerC.py 
+  198  screen --help
+  199  screen -d
+  200  ./runDisp0.sh VixenViewerC.py 
+  201  exit
+  202  ls
+  203  cd Github/
+  204  ls
+  205  cd vixen-python/
+  206  git status
+  207  git pull 
+  208  ls
+  209  ll
+  210  ls -l
+  211  ls
+  212  cd python-s
+  213  cd python-scripts/
+  214  ls
+  215  python check-files.py 
+  216  cp check-files.py  check-files-linux.py
+  217  vi check-files-linux.py
+  218  find -name *.vix
+  219  cd ..
+  220  ls
+  221  find -name *.vix
+  222  cd ..
+  223  ls
+  224  cd vixen-python/
+  225  ls
+  226  cd python-scripts/
+  227  ls
+  228  vi check-files-linux.py 
+  229  python check-files-linux.py 
+  230  vi check-files-linux.py 
+  231  python check-files-linux.py 
+  232  vi check-files-linux.py 
+  233  python check-files-linux.py 
+  234  ls
+  235  python ArduinoSerial.py
+  236  vi ArduinoSerial.py
+  237  python ArduinoSerial.py
+  238  git diff
+  239  git status
+  240  git add check-files-linux.py
+  241  git commit check-files-linux.py -m 'checking file paths for linux.  more work to do'
+  242  git status
+  243  git diff ArduinoSerial.py
+  244  git commit ArduinoSerial.py -m 'fixed some of the tests that run'
+  245  ls
+  246  python check_imports.py 
+  247  git mv check_imports.py check-imports.py
+  248  git commit -m 'trying to use dash'
+  249  git 
+  250  git history
+  251  git --help
+  252  git log
+  253  git --help
+  254  git push 
+  255  git status
+  256  git pull
+  257  ls
+  258  vi VixenViewerC.py 
+  259  python ./VixenViewerC.py 
+  260  vi VixenViewerC.py 
+  261  python ./VixenViewerC.py 
+  262  vi VixenViewerC.py 
+  263  python ./VixenViewerC.py 
+  264  screen
+  265  python ./VixenViewerC.py 
+  266  screen -a
+  267  screen -R
+  268  ls
+  269  ./runDisp0.sh VixenProgram.py 
+  270  vi VixenProgram.py 
+  271  ./runDisp0.sh VixenProgram.py 
+  272  vi VixenProgram.py 
+  273  ./runDisp0.sh VixenProgram.py 
+  274  vi VixenProgram.py 
+  275  sudo vi /boot/config.txt 
+  276  sudo shutdown -r now
+  277  ls
+  278  cd Github/
+  279  ls
+  280  cd vixen-python/
+  281  ls
+  282  cd python-samples/
+  283  ls
+  284  python SerialOutput.py 
+  285  cd ..
+  286  cd python-scripts/
+  287  python ArduinoSerial.py
+  288  vi ArduinoSerial.py
+  289  ls
+  290  cd
+  291  ls
+  292  ls -la
+  293  touch .vimrc
+  294  vi .vimrc 
+  295  cd Github/
+  296  ls
+  297  cd vixen-python/
+  298  ls
+  299  cd python-s
+  300  cd python-scripts/
+  301  ls
+  302  python ./ArduinoSerial.py
+  303  vi ./ArduinoSerial.py
+  304  python ./ArduinoSerial.py
+  305  vi TestSerial.py
+  306  vi TestSerial.py 
+  307  python TestSerial.py 
+  308  vi TestSerial.py 
+  309  python TestSerial.py 
+  310  vi TestSerial.py 
+  311  cd Github/
+  312  ls
+  313  cd vixen-python/
+  314  ls
+  315  cd python-scripts/
+  316  ls
+  317  ./runDisp0.sh VixenProgram.py 
+  318  sudo shutdown -h now
+  319  cd Github/
+  320  ls
+  321  cd vixen-python/
+  322  ls
+  323  cd python-scripts/
+  324  ls
+  325  ./runDisp0.sh VixenProgram.py 
+  326  ls
+  327  sudo vi /boot/config.txt 
+  328  shutdown -r now
+  329  sudo shutdown -r now
+  330  cd Github/
+  331  ls
+  332  cd vixen-python/
+  333  ls
+  334  cd python-s
+  335  cd python-scripts/
+  336  ls
+  337  ./runDisp0.sh VixenProgram.py 
+  338  ./runDisp0.sh VixenViewerC.py 
+  339  c
+  340  ./runDisp0.sh VixenViewerC.py 
+  341  tmux
+  342  crontab -e
+  343  date
+  344  crontab -e
+  345  date
+  346  ls
+  347  crontab -e
+  348  date
+  349  crontab -e
+  350  date
+  351  su - root
+  352  mail -x
+  353  su root
+  354  screen -help
+  355  exit
+  356  cd Github/vixen-python/python-scripts/
+  357  ./runDisp0.sh 
+  358  ./runDisp0.sh VixenViewerC.py 
+  359  exit
+  360  ./runDisp0.sh VixenViewerC.py 
+  361  screen -d
+  362  screen -r
+  363  screen --help
+  364  sudo vi /boot/config.txt
+  365  sudo shutdown -r now
+  366  cd Github/vixen-python/python-scripts/
+  367  ./runDisp0.sh VixenViewerC.py 
+  368  ./runDisp0.sh VixenProgram.py 
+  369  sudo vi /boot/config.txt
+  370  sudo shutdown -h now
+  371  screen -R
+  372  exit
+  373  ls
+  374  cd VixenPython/
+  375  ls
+  376  cd ..
+  377  cd Github/
+  378  ls
+  379  cd python-scripts/
+  380  ls
+  381  sudo vi /boot/config.txt 
+  382  sudo shutdown -h now
+  383  cd Github/
+  384  ls
+  385  cd vixen-python/
+  386  ls
+  387  cd python-scripts/
+  388  ./runDisp0.sh check-files
+  389  ./runDisp0.sh check-files-linux.py 
+  390  vi /boot/config.txt 
+  391  sudo vi /boot/config.txt 
+  392  shutdown -r now
+  393  sudo shutdown -r now
+  394  ls
+  395  cat vixerrorlog 
+  396  cat vixplaylog 
+  397  ls
+  398  cd Github/
+  399  ls
+  400  cd vixen-python/
+  401  ls
+  402  df -h
+  403  ls
+  404  cd
+  405  ls
+  406  ls -l
+  407  ls -lh
+  408  df -h
+  409  export VISUAL='vi'
+  410  crontab 0e
+  411  crontab -e
+  412  ls
+  413  cd Github/
+  414  ls
+  415  cd vixen-python/
+  416  ls
+  417  cd python-scripts/
+  418  ls
+  419  vi VixenProgram.py 
+  420  crontab -e
+  421  cd
+  422  ls
+  423  cat vixerrorlog 
+  424  rm vixerrorlog 
+  425  ls
+  426  vi vixplaylog 
+  427  ls
+  428  vi vixerrorlog 
+  429  ls
+  430  vi vixplaylog 
+  431  ls
+  432  cd Github/
+  433  ls
+  434  cd vixen-python/
+  435  ls
+  436  cd python-scripts/
+  437  ./runDisp0.sh VixenProgram.py 
+  438  vi VixenProgram.py 
+  439  cat ~/vixerrorlog 
+  440  cat ~/vixplaylog 
+  441  vi VixenProgram.py 
+  442  ls
+  443  ./runDisp0.sh VixenProgram.py 
+  444  vi VixenProgram.py 
+  445  ./runDisp0.sh VixenProgram.py 
+  446  vi VixenProgram.py 
+  447  ./runDisp0.sh VixenProgram.py 
+  448  vi VixenProgram.py 
+  449  tail -f /home/pi/vixplaylog 
+  450  cat /home/pi/vixerrorlog 
+  451  vi VixenProgram.py 
+  452  tail -f /home/pi/vixplaylog 
+  453  ls
+  454  ½­ÿexit
+  455  exit
+  456  shutdown -h now
+  457  sudo shutdown -h now
+  458  cat vixerrorlog 
+  459  /home/pi/Github/vixen-python/python-scripts/runDisp0.sh /home/pi/Github/vixen-python/python-scripts/VixenProgram.py 
+  460  vi Github/vixen-python/python-scripts/VixenProgram.py 
+  461  /home/pi/Github/vixen-python/python-scripts/runDisp0.sh /home/pi/Github/vixen-python/python-scripts/VixenProgram.py 
+  462  vi Github/vixen-python/python-scripts/VixenProgram.py 
+  463  /home/pi/Github/vixen-python/python-scripts/runDisp0.sh /home/pi/Github/vixen-python/python-scripts/VixenProgram.py 
+  464  ls
+  465  vi Github/vixen-python/python-scripts/VixenProgram.py 
+  466  /home/pi/Github/vixen-python/python-scripts/runDisp0.sh /home/pi/Github/vixen-python/python-scripts/VixenProgram.py 
+  467  shutdown -h now
+  468  sudo shutdown -h now
+  469  ls
+  470  cd Github/
+  471  ls
+  472  df -h
+  473  ls
+  474  cd vixen-python/
+  475  ls
+  476  git status
+  477  cd ..
+  478  cd vixen-python/python-scripts/
+  479  ls
+  480  crontab -e
+  481  export VISUAL='vi'
+  482  crontab -e
+  483  top
+  484  ps -ef | grep python
+  485  kill 2200
+  486  sudo kill 2200
+  487  ps -ef | grep python
+  488  ps -ef | grep runDisp0
+  489  ps | grep runDisp0
+  490  ps -e | grep runDisp0
+  491  ps -ef | grep runDisp0
+  492  ps -ef
+  493  sudo shutdown -r now
+  494  ps -ef | grep py
+  495  exit
+  496  cd Github/
+  497  ls
+  498  cd ..
+  499  mv Github/ github
+  500  cd github/
+  501  ls
+  502  cd vixen-python/
+  503  ls
+  504  git status
+  505  cd python-scripts/
+  506  git status
+  507  git add VixenProgram.py
+  508  vi VixenProgram.py 
+  509  ls
+  510  git status
+  511  git diff ArduinoSerial.py
+  512  export VISUAL='vi'
+  513  git commit ArduinoSerial.py
+  514  git status
+  515  rm .TestSerial.py.swp 
+  516  git add test-serial.py
+  517  cat test-serial.py 
+  518  git commit test-serial.py
+  519  git status
+  520  git commit VixenProgram.py
+  521  ls
+  522  git status
+  523  git diff runDisp0.sh
+  524  vi runDisp0.sh 
+  525  git commit runDisp0.sh
+  526  git status
+  527  git diff VixenViewerC.py
+  528  git commit VixenViewerC.py
+  529  git diff 
+  530  git status
+  531  git push
+  532  cd ..
+  533  ls
+  534  cd vixen-python/
+  535  ls
+  536  cd ..
+  537  ls
+  538  cd VixenPython/
+  539  ls
+  540  mv crontab ../
+  541  ls
+  542  cd ..
+  543  ls
+  544  mv crontab vixen-python/
+  545  ls
+  546  tar mkdir VixenPython2
+  547  mkdir VixenPython2
+  548  cp OldVixenPython.tar VixenPython2/
+  549  ls
+  550  rm Vix
+  551  rm VixenPyhon2
+  552  rm VixenPython2
+  553  rm -rf VixenPython2
+  554  ls -la
+  555  rm OldVixenPython.tar 
+  556  df -h VixenPython/
+  557  du -h VixenPython/
+  558  rm -rf VixenPython/
+  559  ls
+  560  cd ..
+  561  ls
+  562  du -h VixenPython/
+  563  rm -rf VixenPython/
+  564  ls
+  565  mkdir projects
+  566  mv Code.org.cert.pdf projects/
+  567  ls
+  568  rm -rf indiecity/
+  569  ls
+  570  rm ocr_pi.png 
+  571  ls
+  572  cd Desktop/
+  573  ls
+  574  cd ..
+  575  ls
+  576  cat vixerrorlog 
+  577  vi vixerrorlog 
+  578  rm vixerrorlog 
+  579  ls
+  580  vi vixplaylog 
+  581  rm vixplaylog 
+  582  ls
+  583  mv python_games/ projects/
+  584  ls
+  585  cd github/
+  586  ls
+  587  cd vixen-python/
+  588  ls
+  589  mkdir crontab
+  590  mkdir crontabs
+  591  mv crontab crontabs/.
+  592  ls
+  593  cd arduino/
+  594  ls
+  595  cd ..
+  596  ls
+  597  cd VixenFiles/
+  598  ls
+  599  df -h
+  600  du -h
+  601  cd Audio/
+  602  ls
+  603  cd ..
+  604  ls
+  605  cd ..
+  606  ls
+  607  git status
+  608  git add crontabs/
+  609  git add crontabs/*
+  610  git status
+  611  git commit crontabs/crontab
+  612  git tag --help
+  613  git tag halloween2014
+  614  git tag -l
+  615  git log
+  616  git tag -l
+  617  git help
+  618  git tag --help
+  619  git status
+  620  git tag --help
+  621  git push
+  622  git push --tags
+  623  ls
+  624  git status
+  625  exit
+  626  ipvongih
+  627  ifconfig
+  628  ping 192.168.1.103
+  629  ping 192.168.1.1
+  630  ls
+  631  sudo vi /boot/config.txt 
+  632  shutdown -r new
+  633  sudo shutdown -r now
+  634  ls
+  635  cd github/
+  636  ls
+  637  cd vixen-python/
+  638  cd python-scripts/
+  639  ls
+  640  vi VixenViewerC.py 
+  641  ls
+  642  vi VixenProgram.py 
+  643  cd ..
+  644  ls
+  645  cd VixenFiles/
+  646  ls
+  647  cd Sequences/
+  648  ls
+  649  exit
+  650  ls
+  651  cd github/
+  652  ls
+  653  dc vixen-python/
+  654  ls
+  655  cd vixen-python/
+  656  ls
+  657  cd python-scripts/
+  658  ls
+  659  ./runDisp0.sh VixenViewerC.py 
+  660  ./runDisp0.sh VixenProgram.py 
+  661  crontab -e
+  662  ls
+  663  ./runDisp0.sh VixenProgram.py 
+  664  cd ..
+  665  ls
+  666  cd python-scripts/
+  667  ls
+  668  vi VixenProgram.py 
+  669  ./runDisp0.sh VixenProgram.py 
+  670  vi VixenProgram.py 
+  671  ./runDisp0.sh VixenViewerC.py 
+  672  vi VixenViewerC.py 
+  673  ./runDisp0.sh VixenViewerC.py 
+  674  vi VixenViewerC.py 
+  675  ./runDisp0.sh VixenViewerC.py 
+  676  vi VixenViewerC.py 
+  677  ./runDisp0.sh VixenViewerC.py 
+  678  vi VixenViewerC.py 
+  679  ./runDisp0.sh VixenViewerC.py 
+  680  vi VixenViewerC.py 
+  681  ./runDisp0.sh VixenViewerC.py 
+  682  vi VixenViewerC.py 
+  683  ./runDisp0.sh VixenViewerC.py 
+  684  vi VixenViewerC.py 
+  685  exit
+  686  sudo shutdown -r now
+  687  sudo shutdown -h now
+  688  ls
+  689  cd github/
+  690  ls
+  691  cd vixen-python/
+  692  ls
+  693  cd python-scripts/
+  694  ls
+  695  ./runDisp0.sh VixenProgram.py 
+  696  ls
+  697  vi test-serial.py 
+  698  python test-serial.py 
+  699  ls
+  700  cp test-serial.py test-serial8.py 
+  701  vi test-serial8.py 
+  702  python test-serial8.py 
+  703  ls
+  704  cd /
+  705  ls
+  706  cd dev/
+  707  ls
+  708  ls -1 > ~/tty1
+  709  ls -1 > ~/tty0
+  710  diff ~/tty1 ~/tty0
+  711  ls
+  712  cd
+  713  cd github/
+  714  ls
+  715  cd vixen-python/
+  716  ls
+  717  cd python-scripts/
+  718  ls
+  719  ./runDisp0.sh test-serial8.py 
+  720  python test-serial8.py 
+  721  ls
+  722  ifconfig
+  723  python test-serial8.py 
+  724  ls
+  725  vi VixenProgram.py 
+  726  ls
+  727  ls ../VixenFiles/
+  728  ls ../VixenFiles/Sequences/
+  729  vi VixenProgram.py 
+  730  python VixenProgram.py 
+  731  vi VixenProgram.py 
+  732  python VixenProgram.py 
+  733  ./runDisp0.sh VixenProgram.py 
+  734  shutdown -h now
+  735  sudo shutdown -h now
+  736  ls
+  737  cd github/
+  738  ls
+  739  cd vixen-python/
+  740  ls
+  741  cd python-scripts/
+  742  ls
+  743  ./runDisp0.sh VixenProgram.py 
+  744  clear
+  745  ls
+  746  ./runDisp0.sh VixenViewerC.py 
+  747  vi VixenViewerC.py 
+  748  ls
+  749  vi VixenViewerC.py 
+  750  ./runDisp0.sh VixenViewerC.py 
+  751  date
+  752  crontab -e
+  753  ls
+  754  shutdown -h now
+  755  sudp shutdown -h now
+  756  sudo shutdown -h now
+  757  cd github/
+  758  ls
+  759  cd vixen-python/python-scripts/
+  760  ls
+  761  python test-serial8.py 
+  762  cp test-serial8.py setup-serial8.py
+  763  ls
+  764  vi setup-serial8.py 
+  765  python test-serial8.py 
+  766  ./runDisp0.sh VixenViewerC.py 
+  767  vi VixenViewerC.py 
+  768  ./runDisp0.sh VixenViewerC.py 
+  769  vi VixenProgram.py 
+  770  vi VixenProgramFun.py 
+  771  ls
+  772  cp setup-serial8.py play-serial8.py
+  773  vi play-serial8.py 
+  774  python play-serial8.py 
+  775  ls
+  776  date
+  777  cd /etc/network/
+  778  ls
+  779  vi interfaces 
+  780  sudo vi /etc/wpa_supplicant/wpa_supplicant.conf 
+  781  sudo lsusb
+  782  lsusb
+  783  ifconfig
+  784  ping 192.168.1.1
+  785  vi /etc/network/interfaces 
+  786  sudo iwlist wlan0
+  787  sudo iwlist wlan0 scan
+  788  sudo iwlist wlan0 scan | ESSID
+  789  sudo iwlist wlan0 scan | grep ESSID
+  790  history
+  791  history > ~/history.wlan
+  792  vi /etc/wpa_supplicant/wpa_supplicant.conf 
+  793  sudo vi /etc/wpa_supplicant/wpa_supplicant.conf 
+  794  iwconfig
+  795  cd /etc/
+  796  ls
+  797  sudo /etc/init.d/networking restart
+  798  iwconfig
+  799  ifconfig
+  800  sudo vi /etc/wpa_supplicant/wpa_supplicant.conf 
+  801  sudo /etc/init.d/networking restart
+  802  date
+  803  history | grep date
+  804  date
+  805  date --set "Wed Dec 17 13:10:00 PST 2014"
+  806  sudo date --set "Wed Dec 17 13:10:00 PST 2014"
+  807  ls
+  808  date
+  809  sudo reboot
+  810  ls
+  811  history
+  812  history > history.wlan 
+  813  ls
+  814  iwconfig
+  815  ifconfig
+  816  sudo vi /etc/wpa_supplicant/wpa_supplicant.conf 
+  817  wpa_cli reconfigure
+  818  killall -HUP wpa_supplicant
+  819  ps -ef
+  820  iwlist
+  821  iwlist wlan0 scan
+  822  sudo iwlist wlan0 scan | grep ESSID
+  823  sudo iwlist wlan0 scan | more
+  824  sudo iwlist wlan0 scan | grep ESSID
+  825  sudo vi /etc/wpa_supplicant/wpa_supplicant.conf 
+  826  sudo reboot
+  827  ls
+  828  history 
+  829  history > history.wlan 
