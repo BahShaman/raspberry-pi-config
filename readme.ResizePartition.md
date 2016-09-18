@@ -47,7 +47,7 @@ Re-reading the partition table failed.: Device or resource busy
 
 The kernel still uses the old table. The new table will be used at the next reboot or after you run partprobe(8) or kpartx(8).
 ```
-
+reboot
 ```
 sudo resize2fs /dev/mmcblk0p2
 ````
